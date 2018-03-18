@@ -12,4 +12,4 @@ min(val1, val2) > The classic subtraction.
 divwd(val1, val2) > Divide, in doubles' mode.
 div(val1, val2) > The classic division
 
-If you want to make a project based on this, or using my code, credit me in README.md
+If you want to make a project using my code, credit me in README.md (But I think you can write that by yourself without looking at my project ._.)
