@@ -1,6 +1,6 @@
 package com.cesar.simplecalc;
 
-public class Main {
+public class EasyCalc {
 	public static void print(String input) {
 		System.out.println(input);
 	}
