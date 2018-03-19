@@ -2,6 +2,8 @@ Welcome to simplecalc!
 
 Available commands:
 
+*Insert EasyCalc.theCommand()*
+
 print("text") > Does the same as System.out.println, but simplified.
 addwd(val1, val2) > Adds, but using doubles (decimal numbers)
 add(val1, val2) > The classic addiction.
