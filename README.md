@@ -1,5 +1,5 @@
 
-## Welcome to simplecalc!
+## Welcome to easycalc!
 
 ### Available commands:
 
