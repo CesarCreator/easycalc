@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CesarCreator/easycalc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to simplecalc!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Available commands:
 
-### Markdown
+- EC.print("text") > Does the same as System.out.println, but simplified.
+- EC.addwd(val1, val2) > Adds, but using doubles (decimal numbers)
+- EC.add(val1, val2) > The classic addiction.
+EC.multiwd(val1, val2) > Multiply in doubles' mode.
+EC.multi(val1, val2) > The classic multiplication
+EC.minwd(val1, val2) > Subtracts in doubles' mode.
+EC.min(val1, val2) > The classic subtraction.
+EC.divwd(val1, val2) > Divide, in doubles' mode.
+EC.div(val1, val2) > The classic division
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CesarCreator/easycalc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to make a project using my code, credit me in README.md (But I think you can write that by yourself without looking at my project ._.)
